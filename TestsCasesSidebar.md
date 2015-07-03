@@ -1,0 +1,20 @@
+[Summary of all test cases](TestCases.md)
+
+**Test scenarios pages :**
+
+  * [Users and sessions management (USR)](TestScenario4UserSessionRight.md)
+  * [Dashboard Projects Table (DPT)](TestScenario4DashboardProjectTable.md)
+  * [Project management (PRJM)](TestScenario4ProjectManagement.md)
+  * [Project/Orgunit Model Management (POMM)](TestScenario4ProjectOrgunitModelManagement.md)
+  * [Report model management (RMM)](TestScenario4ReportModelManagement.md)
+  * [Agenda (AGN)](TestScenario4Agenda.md)
+  * [Logical Framework (LF)](TestScenario4LogicalFramework.md)
+  * [Reports & Documents Management (RDM)](TestScenario4ReportsDocumentsManagement.md)
+  * [Organizational Units Management (OUM)](TestScenario4OrgUnitManagement.md)
+  * [Rights (R)](TestScenario4Rights.md)
+  * [Administration Users (AUSR)](TestScenario4AdministrationUsers.md)
+  * [Administration Settings tab (AGM)](TestScenario4AdministrationGlobalManagement.md)
+  * [Indicators (I)](TestScenario4Indicators.md)
+  * [Importation (IMP)](TestScenario4Import.md)
+  * [Transversal Behaviors (TB)](TestScenario4TransversalBehaviors.md)
+  * [User interface (UI)](TestScenario4UserInterface.md)
